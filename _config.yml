@@ -12,7 +12,7 @@ lang: en-US
 title: Carpentries DE Community Meetup 2023
 email: tobyhodges@carpentries.org
 description: "A satellite event to [deRSE23](https://de-rse23.sciencesconf.org/)"
-baseurl: ""
+baseurl: "carpentries-de-meetup-2023"
 url: "https://tobyhodges.github.io/carpentries-de-meetup-2023"
 repository: "tobyhodges/carpentries-de-meetup-2023"
 author:
