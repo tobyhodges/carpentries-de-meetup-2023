@@ -13,10 +13,9 @@ layout: about
 | Time (CET) | Session |
 |------------|---------|
 | 09:00-09:45 | Welcome & Lightning Talks |
-| 09:45-10:45 | Skill-up 1 |
+| 09:45-10:45 | Skill-up |
 | 10:45-11:15 | _break_ |
-| 11:15-12:15 | Skill-up 2 |
-| 12:15-13:00 | Community Discussion |
+| 11:15-12:00 | Community Discussion |
 
 
 ## Lightning Talks
@@ -30,8 +29,11 @@ Below are some points of guidance for what you might include in your lightning t
 - How are you hoping to benefit from joining this meetup?
 
 
-## Skill-ups
-The meetup will include at least two skill-ups run by attendees. The programme of skill-ups is still to be determined. **If you  would like to volunteer to deliver a skill-up to the other participants (maximum one hour), please [email the organisers](mailto:tobyhodges@carpentries.org)**.
+## Skill-up
+The meetup will include at least one skill-up run by attendees.
+The programme of skill-ups is still to be determined. **If you  would like to volunteer to deliver a skill-up to the other participants (maximum one hour), please [email the organisers](mailto:tobyhodges@carpentries.org)**.
+Any skill-up ideas that we cannot fit into the programme for this meetup,
+can be presented instead at a subsequent regularly-scheduled online community meetup.
 
 
 ## Community Discussion
